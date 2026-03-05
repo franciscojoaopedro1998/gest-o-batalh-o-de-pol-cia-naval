@@ -1,0 +1,7 @@
+{
+  "name": "Gestão Batalhão de Polícia Naval",
+  "description": "Sistema completo de gestão de efetivos militares para o Batalhão de Polícia Naval, permitindo o cadastro, acompanhamento de situações (missão, férias, ativo) e geração de relatórios estatísticos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
